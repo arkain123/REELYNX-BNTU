@@ -3,3 +3,6 @@ This site was created to distribute educational materials to students who do not
 
 Features:
 - Downloading lections
+
+Contibutors:
+- arkain123
