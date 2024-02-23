@@ -38,6 +38,10 @@ p {
     margin-top: 0;
 }
 
+.center {
+    text-align: center;
+}
+
 footer {
     background-color: #007bff;
     color: #fff;
